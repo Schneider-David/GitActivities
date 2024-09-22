@@ -1,4 +1,7 @@
+git merge-conflict-activity-1 -- branch-1
+=======
 Tasks
 - git checkout main
 - git checkout -b merge-conflict-activity-2
 - update new_file.txt
+
